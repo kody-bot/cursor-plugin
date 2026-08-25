@@ -6,7 +6,7 @@ This is a lean listing repo (manifest and MCP config only). Plugin format and su
 
 ## Contents
 
-- `.cursor-plugin/plugin.json` - plugin name `kody`, version `1.0.0`
+- `.cursor-plugin/plugin.json` - plugin name `kody`
 - `mcp.json` - remote MCP server at `https://kody.codes/mcp`
 
 ## Local test
